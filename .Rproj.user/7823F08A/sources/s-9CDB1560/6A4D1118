@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1076881831",
+    "hash" : "0",
     "id" : "6A4D1118",
     "lastKnownWriteTime" : 1616536742,
     "last_content_update" : 1616536742,
     "path" : "~/Dropbox/teaching/STAT498/STAT498-SUM21.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
