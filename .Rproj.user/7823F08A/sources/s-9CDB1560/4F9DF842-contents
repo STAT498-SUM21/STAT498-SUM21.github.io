@@ -1,0 +1,12 @@
+name: "STAT498-SUM21.github.io"
+title: "STAT 498"
+description: |
+  STAT 498
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

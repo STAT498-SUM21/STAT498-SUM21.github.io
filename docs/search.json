@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-23T14:59:43-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "STAT 498",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-23T14:59:43-07:00"
+    }
+  ],
+  "collections": []
+}
