@@ -6,15 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-03-23T15:08:36-07:00"
+      "last_modified": "2021-05-15T09:30:11-07:00"
     },
     {
       "path": "index.html",
       "title": "STAT 498",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Introduction to Ethics of Algorithmic Decision Making (WEBSITE UNDER CONSTRUCTION)\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-03-23T15:08:37-07:00"
+      "contents": "\n\nWeek\n\n\nDay\n\n\nDate\n\n\nTopic\n\n\nReadings\n\n\n1\n\n\nM\n\n\n6/21\n\n\nIntroduction\n\n\nReadings 1\n\n\nW\n\n\n6/23\n\n\nHistories of Data/Algorithms\n\n\nReadings 2\n\n\n2\n\n\nM\n\n\n6/28\n\n\nEthical Concerns\n\n\nReadings 1\n\n\nW\n\n\n6/30\n\n\nDisentangling Bias and Fairness\n\n\nReadings 2\n\n\n3\n\n\nM\n\n\n7/5\n\n\nNO CLASS\n\n\n\n\nW\n\n\n7/7\n\n\nAlgorithms in Education\n\n\nReadings 2\n\n\n4\n\n\nM\n\n\n7/12\n\n\nFacial Recognition I\n\n\nReadings 1\n\n\nW\n\n\n7/14\n\n\nFacial Recognition II\n\n\nReadings 2\n\n\n5\n\n\nM\n\n\n7/19\n\n\nAlgorithms in Criminal Justice\n\n\nReadings 1\n\n\nW\n\n\n7/21\n\n\nPublic and Private Algorithms\n\n\nReadings 2\n\n\n6\n\n\nM\n\n\n7/26\n\n\nAlgorithms in Business\n\n\nReadings 1\n\n\nW\n\n\n7/28\n\n\nWelfare Algorithms\n\n\nReadings 2\n\n\n7\n\n\nM\n\n\n8/2\n\n\nAlgorithms in Healthcare\n\n\nReadings 1\n\n\nW\n\n\n8/4\n\n\nPrivacy\n\n\nReadings 2\n\n\n8\n\n\nM\n\n\n8/9\n\n\nPaths Forward: Technical Approaches\n\n\n\nGreen, Ben. “The False Promise of Risk Assessments: Epistemic Reform and the Limits of Fairness.” https://doi.org/10.1145/3351095.3372869.\n\n\nHooker, Sara. “Moving beyond ‘Algorithmic Bias Is a Data Problem.’” https://doi.org/10.1016/j.patter.2021.100241.\n\n\nRaji, Inioluwa Deborah, and Joy Buolamwini. “Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products.” https://doi.org/10.1145/3306618.3314244.\n\n\nRudin, Cynthia, and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition.” https://doi.org/10.1162/99608f92.5a8a3a3d.\n\n\nUpchurch, Tom. “To Work for Society, Data Scientists Need a Hippocratic Oath with Teeth.” https://www.wired.co.uk/article/data-ai-ethics-hippocratic-oath-cathy-o-neil-weapons-of-math-destruction\n\n\n\n\nW\n\n\n8/11\n\n\nPaths Forward: Non-technical Approaches\n\n\nReadings 2\n\n\n9\n\n\nM\n\n\n8/16\n\n\nFinal Presentations\n\n\nReadings 1\n\n\nW\n\n\n8/18\n\n\nFinal Presentations\n\n\nReadings 2\n\n\n\n\n",
+      "last_modified": "2021-05-15T09:30:11-07:00"
+    },
+    {
+      "path": "staff.html",
+      "title": "Instructors",
+      "author": [],
+      "contents": "\nPeter\nSarah\n\n\n\n",
+      "last_modified": "2021-05-15T09:27:18-07:00"
     }
   ],
   "collections": []

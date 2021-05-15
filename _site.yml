@@ -3,10 +3,13 @@ title: "STAT 498"
 description: |
   STAT 498
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
-    - text: "Home"
+    - text: "Syllabus"
       href: index.html
-    - text: "About"
+    - text: "Interactives"
       href: about.html
+    - text: "Staff"
+      href: staff.html
 output: distill::distill_article

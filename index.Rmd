@@ -1,7 +1,7 @@
 ---
 title: "STAT 498"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Introduction to Ethics of Algorithmic Decision Making (WEBSITE UNDER CONSTRUCTION)
 site: distill::distill_website
 ---
 
@@ -16,3 +16,140 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4erg">Week</th>
+    <th class="tg-4erg">Day</th>
+    <th class="tg-6t3r">Date</th>
+    <th class="tg-4erg">Topic</th>
+    <th class="tg-4erg">Readings</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9j3s" rowspan="2">1</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">6/21</td>
+    <td class="tg-0pky">Introduction</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">6/23</td>
+    <td class="tg-0pky">Histories of Data/Algorithms</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+  <tr>
+    <td class="tg-9j3s" rowspan="2">2</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">6/28</td>
+    <td class="tg-0pky">Ethical Concerns</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">6/30</td>
+    <td class="tg-0pky">Disentangling Bias and Fairness</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">3</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">7/5</td>
+    <td class="tg-0pky">NO CLASS</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">7/7</td>
+    <td class="tg-0pky">Algorithms in Education</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">4</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">7/12</td>
+    <td class="tg-0pky">Facial Recognition I</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">7/14</td>
+    <td class="tg-0pky">Facial Recognition II</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">5</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">7/19</td>
+    <td class="tg-0pky">Algorithms in Criminal Justice</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">7/21</td>
+    <td class="tg-0pky">Public and Private Algorithms</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">6</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">7/26</td>
+    <td class="tg-0pky">Algorithms in Business</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">7/28</td>
+    <td class="tg-0pky">Welfare Algorithms</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">7</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">8/2</td>
+    <td class="tg-0pky">Algorithms in Healthcare</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">8/4</td>
+    <td class="tg-0pky">Privacy</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">8</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">8/9</td>
+    <td class="tg-0pky">Paths Forward: Technical Approaches</td>
+    <td class="tg-0pky"><ul style="line-height: normal; font-size:12px">
+  <li>Green, Ben. “The False Promise of Risk Assessments: Epistemic Reform and the Limits of Fairness.” https://doi.org/10.1145/3351095.3372869.</li>
+  <li>Hooker, Sara. “Moving beyond ‘Algorithmic Bias Is a Data Problem.’” https://doi.org/10.1016/j.patter.2021.100241.</li>
+  <li>Raji, Inioluwa Deborah, and Joy Buolamwini. “Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products.” https://doi.org/10.1145/3306618.3314244.</li>
+  <li>Rudin, Cynthia, and Joanna Radin. “Why Are We Using Black Box Models in AI When We Don’t Need To? A Lesson From An Explainable AI Competition.” https://doi.org/10.1162/99608f92.5a8a3a3d.</li>
+  <li>Upchurch, Tom. “To Work for Society, Data Scientists Need a Hippocratic Oath with Teeth.” https://www.wired.co.uk/article/data-ai-ethics-hippocratic-oath-cathy-o-neil-weapons-of-math-destruction</td></li>
+</ul>
+
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">8/11</td>
+    <td class="tg-0pky">Paths Forward: Non-technical Approaches</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+    <tr>
+    <td class="tg-9j3s" rowspan="2">9</td>
+    <td class="tg-fymr">M</td>
+    <td class="tg-0lax">8/16</td>
+    <td class="tg-0pky">Final Presentations</td>
+    <td class="tg-0pky">Readings 1</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">W</td>
+    <td class="tg-0lax">8/18</td>
+    <td class="tg-0pky">Final Presentations</td>
+    <td class="tg-0pky">Readings 2</td>
+  </tr>
+</tbody>
+</table>
